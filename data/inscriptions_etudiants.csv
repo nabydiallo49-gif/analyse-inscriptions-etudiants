@@ -1,0 +1,16 @@
+id_etudiant,age,sexe,filiere,niveau,annee_inscription,frais_scolarite,statut_paiement
+1,19,Homme,Informatique,BTS 1,2023,450000,Payé
+2,22,Femme,Informatique,BTS 2,2023,450000,Payé
+3,21,Homme,Génie Logiciel,Licence 1,2024,600000,En attente
+4,23,Femme,Marketing,BTS 2,2023,400000,Payé
+5,20,Homme,Informatique,BTS 1,2024,450000,Payé
+6,24,Homme,Génie Logiciel,Licence 3,2024,650000,Payé
+7,22,Femme,Comptabilité,BTS 2,2023,420000,En attente
+8,19,Femme,Informatique,BTS 1,2024,450000,Payé
+9,25,Homme,Génie Logiciel,Licence 2,2024,620000,Payé
+10,21,Homme,Marketing,BTS 1,2023,400000,En attente
+11,23,Femme,Informatique,Licence 1,2024,600000,Payé
+12,26,Homme,Comptabilité,Licence 3,2024,630000,Payé
+13,20,Femme,Informatique,BTS 1,2023,450000,Payé
+14,22,Homme,Génie Logiciel,Licence 2,2024,620000,En attente
+15,24,Femme,Marketing,Licence 3,2024,610000,Payé
